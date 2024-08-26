@@ -1,4 +1,4 @@
-import { Link } from "react-router-dom";
+ioimport { Link } from "react-router-dom";
 import { useNavigate } from "react-router-dom";
 
 const Header = () => {
@@ -15,7 +15,7 @@ const Header = () => {
                 <Link to="/" >   <img className=" w-25"  src="/imgs/logo.png" alt="logo here"/> </Link>
             </div>
             <div className="col-sm-5">
-                <b>   <i> Creating Happy Home Owners Everyday </i> </b>
+                <b>   <i> Destination For Happy Home Owners </i> </b>
             </div>
             <div className="col-sm-4">
             {
